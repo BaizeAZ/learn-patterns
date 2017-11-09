@@ -14,9 +14,19 @@ namespace One_wayLinkedList
             for (int i = 0; i < 10; i++)
             {
                 LL1.Append(i);
-                Console.Write(LL1.GetElem(i)+"\t");
-
+                Console.Write(LL1.GetElem(i) + "\t");
             }
+            Console.WriteLine(LL1.GetLength());
+            LL1.Insert(11, 10);
+            Console.WriteLine(LL1.GetLength());
+            if (LL1.GetLength()==11)
+            {
+                for (int i = 0; i < 11; i++)
+                {
+                    Console.WriteLine(LL1.GetElem(i));
+                }
+            }
+
             Console.ReadKey();
             
         }

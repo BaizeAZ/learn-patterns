@@ -7,8 +7,7 @@ using System.Threading.Tasks;
 namespace One_wayLinkedList
 {
     interface IMyList<T>
-    {
-        int GetLength();
+    {        
         void Clear();
         void Insert(T item,int idx);
         bool isEmpty();
