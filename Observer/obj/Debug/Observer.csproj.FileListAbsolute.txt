@@ -1,0 +1,6 @@
+E:\VS_Workplace\LearnPatterns\Observer\bin\Debug\Observer.exe.config
+E:\VS_Workplace\LearnPatterns\Observer\bin\Debug\Observer.exe
+E:\VS_Workplace\LearnPatterns\Observer\bin\Debug\Observer.pdb
+E:\VS_Workplace\LearnPatterns\Observer\obj\Debug\Observer.csprojResolveAssemblyReference.cache
+E:\VS_Workplace\LearnPatterns\Observer\obj\Debug\Observer.exe
+E:\VS_Workplace\LearnPatterns\Observer\obj\Debug\Observer.pdb

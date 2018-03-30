@@ -1,0 +1,6 @@
+E:\VS_Workplace\LearnPatterns\LearnPatterns\bin\Debug\LearnPatterns.exe.config
+E:\VS_Workplace\LearnPatterns\LearnPatterns\bin\Debug\LearnPatterns.exe
+E:\VS_Workplace\LearnPatterns\LearnPatterns\bin\Debug\LearnPatterns.pdb
+E:\VS_Workplace\LearnPatterns\LearnPatterns\obj\Debug\Builder.csprojResolveAssemblyReference.cache
+E:\VS_Workplace\LearnPatterns\LearnPatterns\obj\Debug\LearnPatterns.exe
+E:\VS_Workplace\LearnPatterns\LearnPatterns\obj\Debug\LearnPatterns.pdb

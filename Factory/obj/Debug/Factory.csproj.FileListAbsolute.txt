@@ -1,0 +1,5 @@
+E:\VS_Workplace\LearnPatterns\Factory\bin\Debug\Factory.exe.config
+E:\VS_Workplace\LearnPatterns\Factory\bin\Debug\Factory.exe
+E:\VS_Workplace\LearnPatterns\Factory\bin\Debug\Factory.pdb
+E:\VS_Workplace\LearnPatterns\Factory\obj\Debug\Factory.exe
+E:\VS_Workplace\LearnPatterns\Factory\obj\Debug\Factory.pdb

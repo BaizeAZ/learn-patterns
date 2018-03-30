@@ -1,0 +1,6 @@
+E:\VS_Workplace\LearnPatterns\StateExample1\bin\Debug\StateExample1.exe.config
+E:\VS_Workplace\LearnPatterns\StateExample1\bin\Debug\StateExample1.exe
+E:\VS_Workplace\LearnPatterns\StateExample1\bin\Debug\StateExample1.pdb
+E:\VS_Workplace\LearnPatterns\StateExample1\obj\Debug\StateExample1.csprojResolveAssemblyReference.cache
+E:\VS_Workplace\LearnPatterns\StateExample1\obj\Debug\StateExample1.exe
+E:\VS_Workplace\LearnPatterns\StateExample1\obj\Debug\StateExample1.pdb

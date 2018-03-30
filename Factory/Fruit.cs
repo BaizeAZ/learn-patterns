@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Factory
 {
-    abstract class Fruit
+    public abstract class Fruit
     {
         private int amount;
         private string id;        

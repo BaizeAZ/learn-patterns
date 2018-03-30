@@ -1,0 +1,6 @@
+E:\VS_Workplace\LearnPatterns\Prototype\bin\Debug\Prototype.exe.config
+E:\VS_Workplace\LearnPatterns\Prototype\bin\Debug\Prototype.exe
+E:\VS_Workplace\LearnPatterns\Prototype\bin\Debug\Prototype.pdb
+E:\VS_Workplace\LearnPatterns\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
+E:\VS_Workplace\LearnPatterns\Prototype\obj\Debug\Prototype.exe
+E:\VS_Workplace\LearnPatterns\Prototype\obj\Debug\Prototype.pdb

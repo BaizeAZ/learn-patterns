@@ -1,6 +1,0 @@
-E:\VS_Workplace\HaveFun\One-wayLinkedList\bin\Debug\One-wayLinkedList.exe.config
-E:\VS_Workplace\HaveFun\One-wayLinkedList\bin\Debug\One-wayLinkedList.exe
-E:\VS_Workplace\HaveFun\One-wayLinkedList\bin\Debug\One-wayLinkedList.pdb
-E:\VS_Workplace\HaveFun\One-wayLinkedList\obj\Debug\One-wayLinkedList.csprojResolveAssemblyReference.cache
-E:\VS_Workplace\HaveFun\One-wayLinkedList\obj\Debug\One-wayLinkedList.exe
-E:\VS_Workplace\HaveFun\One-wayLinkedList\obj\Debug\One-wayLinkedList.pdb
