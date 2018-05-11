@@ -1,0 +1,6 @@
+E:\GitWork\learn-patterns\Command1\bin\Debug\Command1.exe.config
+E:\GitWork\learn-patterns\Command1\bin\Debug\Command1.exe
+E:\GitWork\learn-patterns\Command1\bin\Debug\Command1.pdb
+E:\GitWork\learn-patterns\Command1\obj\Debug\Command1.csprojResolveAssemblyReference.cache
+E:\GitWork\learn-patterns\Command1\obj\Debug\Command1.exe
+E:\GitWork\learn-patterns\Command1\obj\Debug\Command1.pdb

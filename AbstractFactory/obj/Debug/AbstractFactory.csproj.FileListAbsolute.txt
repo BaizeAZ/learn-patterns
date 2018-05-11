@@ -1,0 +1,6 @@
+E:\GitWork\learn-patterns\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+E:\GitWork\learn-patterns\AbstractFactory\bin\Debug\AbstractFactory.exe
+E:\GitWork\learn-patterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+E:\GitWork\learn-patterns\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+E:\GitWork\learn-patterns\AbstractFactory\obj\Debug\AbstractFactory.exe
+E:\GitWork\learn-patterns\AbstractFactory\obj\Debug\AbstractFactory.pdb

@@ -3,3 +3,9 @@ E:\VS_Workplace\LearnPatterns\Factory\bin\Debug\Factory.exe
 E:\VS_Workplace\LearnPatterns\Factory\bin\Debug\Factory.pdb
 E:\VS_Workplace\LearnPatterns\Factory\obj\Debug\Factory.exe
 E:\VS_Workplace\LearnPatterns\Factory\obj\Debug\Factory.pdb
+E:\GitWork\learn-patterns\Factory\bin\Debug\Factory.exe.config
+E:\GitWork\learn-patterns\Factory\obj\Debug\Factory.exe
+E:\GitWork\learn-patterns\Factory\obj\Debug\Factory.pdb
+E:\GitWork\learn-patterns\Factory\bin\Debug\Factory.exe
+E:\GitWork\learn-patterns\Factory\bin\Debug\Factory.pdb
+E:\GitWork\learn-patterns\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache

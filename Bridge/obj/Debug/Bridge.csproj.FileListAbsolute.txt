@@ -1,0 +1,6 @@
+E:\GitWork\learn-patterns\Bridge\bin\Debug\Bridge.exe.config
+E:\GitWork\learn-patterns\Bridge\bin\Debug\Bridge.exe
+E:\GitWork\learn-patterns\Bridge\bin\Debug\Bridge.pdb
+E:\GitWork\learn-patterns\Bridge\obj\Debug\Bridge.csprojResolveAssemblyReference.cache
+E:\GitWork\learn-patterns\Bridge\obj\Debug\Bridge.exe
+E:\GitWork\learn-patterns\Bridge\obj\Debug\Bridge.pdb
