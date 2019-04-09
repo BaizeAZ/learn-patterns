@@ -1,0 +1,6 @@
+E:\GitWork\learn-patterns\Proxy\bin\Debug\Proxy.exe.config
+E:\GitWork\learn-patterns\Proxy\bin\Debug\Proxy.exe
+E:\GitWork\learn-patterns\Proxy\bin\Debug\Proxy.pdb
+E:\GitWork\learn-patterns\Proxy\obj\Debug\Proxy.csprojResolveAssemblyReference.cache
+E:\GitWork\learn-patterns\Proxy\obj\Debug\Proxy.exe
+E:\GitWork\learn-patterns\Proxy\obj\Debug\Proxy.pdb

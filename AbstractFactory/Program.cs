@@ -17,7 +17,7 @@ namespace AbstractFactory
             Sword SwordOfBlacksmithInForest = BlacksmithInForest.CreatSword();
             Shield ShieldOfBlacksmithInForest = BlacksmithInForest.CreatShield();
 
-            Sword SwordOfMaster = BlacksmithInForest
+            Sword SwordOfMaster = BlacksmithInForest.CreatSword();
 
             SwordOfBlacksmithInBaseTown.PrintInfo();
             SwordOfBlacksmithInForest.PrintInfo();
