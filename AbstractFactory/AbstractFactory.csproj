@@ -43,20 +43,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BlacksmithInBaseTown.cs" />
-    <Compile Include="BlacksmithInForest.cs" />
-    <Compile Include="Creator.cs" />
-    <Compile Include="ICreatorMaster.cs" />
+    <Compile Include="example1\BlacksmithInBaseTown.cs" />
+    <Compile Include="example1\BlacksmithInForest.cs" />
+    <Compile Include="example1\Creator.cs" />
+    <Compile Include="example1\ICreatorMaster.cs" />
+    <Compile Include="example2\AbstractFactoryExample2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Shield.cs" />
-    <Compile Include="ShieldOfBlacksmithInBaseTown.cs" />
-    <Compile Include="ShieldOfBlacksmithInForest.cs" />
-    <Compile Include="ShieldOfMaster.cs" />
-    <Compile Include="Sword.cs" />
-    <Compile Include="SwordOfBlacksmithInBaseTown.cs" />
-    <Compile Include="SwordOfBlacksmithInForest.cs" />
-    <Compile Include="SwordOfMaster.cs" />
+    <Compile Include="example1\Shield.cs" />
+    <Compile Include="example1\ShieldOfBlacksmithInBaseTown.cs" />
+    <Compile Include="example1\ShieldOfBlacksmithInForest.cs" />
+    <Compile Include="example1\ShieldOfMaster.cs" />
+    <Compile Include="example1\Sword.cs" />
+    <Compile Include="example1\SwordOfBlacksmithInBaseTown.cs" />
+    <Compile Include="example1\SwordOfBlacksmithInForest.cs" />
+    <Compile Include="example1\SwordOfMaster.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
